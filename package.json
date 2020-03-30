@@ -1,25 +1,17 @@
 {
-  "name": "Nav-Proxy",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "nodemon index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/origin-master-F5/Nav-Proxy.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/origin-master-F5/Nav-Proxy/issues"
-  },
-  "homepage": "https://github.com/origin-master-F5/Nav-Proxy#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
-  }
+    "name": "review-proxy",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    }
 }
